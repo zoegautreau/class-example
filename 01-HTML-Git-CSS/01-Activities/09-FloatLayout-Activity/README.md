@@ -2,7 +2,9 @@
 
 * Introduce yourself to 1–2 people next to you.
 
-* Then using `floats.html` and `floats.css` as a starting point, work together to create the missing CSS necessary to form the layout shown to you on screen. 
+* Then using `floats.html` and `floats.css` as a starting point, work together to create the missing CSS necessary to form the layout shown to you below:
+
+<img src="layout-example.png" style="max-width: 450px; padding-left: 40px;" alt="layout to imitate" />
 
 * This will not be easy so work at it as best you can. This is a challenging activity. At the very least, try to increase your understanding of CSS properties.
 
