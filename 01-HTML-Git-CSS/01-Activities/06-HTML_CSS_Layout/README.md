@@ -10,7 +10,6 @@
   * Add an `id` called "contact-info" for the second `section` tag.
   * Add an `id` called "bio-image" for the bio image.
 * Style specs:
-
   * `body`
     * The background color is `#efeee7`.
     * The font used is `Georgia,"Times New Roman",Times,serif;`.
